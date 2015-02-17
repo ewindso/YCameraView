@@ -377,14 +377,14 @@
 		8B33A3D318E2D3CE0006B13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Jayesh Mori (ZSY9WKCL37)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Elijah Windsor (8K4YFYE44T)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jayesh Mori (ZSY9WKCL37)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YImagePickerDemo/YCameraViewDemo-Prefix.pch";
 				INFOPLIST_FILE = "YImagePickerDemo/YCameraViewDemo-Info.plist";
 				PRODUCT_NAME = YCameraViewDemo;
-				PROVISIONING_PROFILE = "4680A0C1-3380-4E39-9AF6-D8BF23EC3005";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4680A0C1-3380-4E39-9AF6-D8BF23EC3005";
+				PROVISIONING_PROFILE = "aa81d40a-f23a-4fbb-b4f5-8703c5c04081";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "aa81d40a-f23a-4fbb-b4f5-8703c5c04081";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,13 +392,13 @@
 		8B33A3D418E2D3CE0006B13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Jayesh Mori (ZSY9WKCL37)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Elijah Windsor (8K4YFYE44T)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jayesh Mori (ZSY9WKCL37)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YImagePickerDemo/YCameraViewDemo-Prefix.pch";
 				INFOPLIST_FILE = "YImagePickerDemo/YCameraViewDemo-Info.plist";
 				PRODUCT_NAME = YCameraViewDemo;
-				PROVISIONING_PROFILE = "4680A0C1-3380-4E39-9AF6-D8BF23EC3005";
+				PROVISIONING_PROFILE = "aa81d40a-f23a-4fbb-b4f5-8703c5c04081";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4680A0C1-3380-4E39-9AF6-D8BF23EC3005";
 				WRAPPER_EXTENSION = app;
 			};
